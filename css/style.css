@@ -1,0 +1,575 @@
+body {
+	font-family: 'Poppins', sans-serif !important;
+}
+
+#sectionMain {
+	height: 700px;
+	background-size: 100%;
+	background-color: rgba(10, 10, 10, 0.86);
+	background-image: url("../Images/voce.jpg");
+	background-repeat: no-repeat;
+
+	/*	background-size: auto;*/
+}
+
+
+.text1 {
+	color: #fff;
+	font-size: 60px;
+	text-align: center;
+	margin-top: 80px;
+
+}
+
+.mainText {
+	background-color: rgba(128, 128, 128, 0.7);
+	width: 70%;
+	height: 300px;
+	margin: auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: 1px solid yellow;
+	border-radius: 15px;
+	text-align: center;
+}
+
+.mainText h3 {
+	color: yellow;
+
+}
+
+
+.mainText p {
+	color: #57731f;
+	font-size: 20px;
+}
+
+.btn-jelovnik {
+	color: #ffd0d4;
+	background-color: yellow !important;
+
+}
+
+.btn-jelovnik:hover {
+	font-weight: 500;
+	border: 1px solid #39577f !important;
+	background-color: #39577f !important;
+	color: #fff !important;
+}
+
+
+#sectionMain2 {
+	height: 500px;
+	background-color: #fff;
+	padding-top: 20px;
+}
+
+/*.nav-tabs {
+	height: 700px;
+	background-color: red;
+	text-align: center;
+	}*/
+
+/*#meso1 {
+		height: 150px;
+		width: 150px;
+		background-color: #fff;
+		background-image: url("../Images/meso1.jpg");
+	}
+
+	.nav-tabs1 {
+	height: 500px;
+	width: 500px;
+	background-color: red;
+	text-align: center;
+	}
+
+	.mosaic-img {
+	background-image: url(https://sesttopola.rs/wp-content/uploads/2020/03/Silver-1.jpg);
+	background-repeat: no-repeat;
+	}
+
+	.mosaic-img1 {
+		background-image: url(https://sesttopola.rs/wp-content/uploads/2020/03/Premium3.jpg);
+		background-repeat: no-repeat;
+		margin-right: 50px;
+	}*/
+
+#sectionMain1 {
+	height: 500px;
+	background-color: yellow;
+}
+
+.border1 {
+	height: 450px;
+	width: 85%;
+	color: black;
+	background-color: transparent;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin: auto;
+	margin-top: 30px;
+}
+
+.border2 {
+	height: 400px;
+	width: 400px;
+	color: black;
+	background-color: transparent;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.dimenzije {
+	width: 500px;
+	height: auto;
+	text-align: center;
+	margin: auto;
+	padding-top: 80px;
+}
+
+.dimenzije img {
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+.bg-red {
+	background-color: rgba(0, 0, 0, 0.13);
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #fff !important;
+	font-weight: 700;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: yellow !important;
+	font-weight: 900;
+}
+
+.navbar-light .navbar-nav .nav-link:active,
+.nav-item:active {
+	color: yellow !important;
+	font-weight: 900;
+}
+
+ul>li.nav-item.active {
+	color: yellow !important;
+	font-weight: 900;
+}
+
+
+.jelovnik1 {
+
+	width: 300px;
+	height: 400px;
+	text-decoration-color: black;
+	background: #ab2121d9;
+	text-align: center;
+	margin: auto;
+	margin-top: 30px;
+	border-radius: 6px;
+}
+
+/*.btn {
+	background-color: #dc3545;
+	color: #ffd0d4;
+    border-color: #dc3545;
+}*/
+
+
+.foodbg1 {
+	margin-top: 150px;
+	background-color: #fff;
+	background-image: url("../Images/voce4.jpg");
+}
+
+#sectionMain3 {
+	background-image: url("../Images/voce12.jpg");
+	background-size: 100%;
+	position: relative;
+	padding-bottom: 100px;
+
+}
+
+#sectionMain10 {
+	background-image: url("../Images/voce12.jpg");
+	background-size: 100%;
+	position: relative;
+	padding-bottom: 100px;
+	height: 800px;
+}
+
+
+.specijalitetititle {
+	color: #fff;
+	z-index: 55;
+}
+
+.maindiv {
+	background-color: rgba(10, 10, 10, 0.86);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	text-align: center;
+	padding: 20px;
+	padding-top: 130px;
+	z-index: 0;
+}
+
+#sale {
+	background-image: url("../Images/voce10.jpg");
+	position: relative;
+	padding-bottom: 200px;
+	padding-top: 50px;
+
+}
+
+#sanja {
+	background-image: url("../Images/voce11.jpg");
+	position: relative;
+	padding-bottom: 200px;
+	padding-top: 50px;
+}
+
+
+
+.blckbackground {
+	height: 650px;
+	background-color: rgb(0, 0, 0, 0.9);
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+
+}
+
+
+.between {
+	background-color: yellow;
+	height: 50px;
+}
+
+#sectionMain4 {
+	background-color: black;
+	background-image: url("../Images/voce3.jpg");
+	height: 1000px;
+	position: relative;
+
+}
+
+.blckbackground1 {
+	height: 1000px;
+	background-color: rgb(0, 0, 0, 0.9);
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
+}
+
+.whitediv {
+	text-align: center;
+	margin: auto;
+	margin-top: 50px;
+	height: 450px;
+	width: 70%;
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 10px;
+	z-index: 223;
+	position: relative;
+}
+
+.sectionMain5 {
+	height: 400px;
+	background-color: #fff;
+
+}
+
+.picture1 {
+	text-align: center;
+	margin: auto;
+	border-radius: 10px;
+	border: 2px solid yellow;
+	margin-top: 100px;
+	height: 150px;
+	width: 150px;
+	background-image: url("../Images/meso1.jpg");
+}
+
+/*.picture2 {
+	height: 150px;
+	width: 150px;
+	background-image: url("../Images/torta1.jpg");
+}
+*/
+
+nav.navbar {
+	position: absolute;
+	width: 100%;
+	height: 80px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+
+}
+
+
+.navbar-light .navbar-brand {
+	color: rgb(255 255 0) !important;
+}
+
+.navbar-brand {
+	display: inline-block;
+	padding-top: .3125rem;
+	padding-bottom: .3125rem;
+	margin-right: 1rem;
+	font-size: 1.9rem !important;
+	line-height: inherit;
+	white-space: nowrap;
+}
+
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+	color: rgba(255, 255, 0, 1) !important;
+}
+
+
+.red {
+	background: red;
+	height: 100px;
+}
+
+.menuPost {
+	text-align: center;
+	margin: auto;
+	margin-top: 100px;
+	/*	background: red;*/
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.naslov1 {
+	padding-top: 50px;
+	text-align: center;
+	color: yellow;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.naslov2 {
+	padding-top: 50px;
+	text-align: center;
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.podnaslov {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	padding-top: 40px;
+}
+
+.podnaslovP {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	padding-top: 10px;
+
+	width: 80%;
+	margin: auto;
+	margin-bottom: 40px;
+}
+
+
+.button-one {
+	color: black;
+	font-size: 13px;
+	font-family: "Montserrat", sans-serif;
+	text-transform: uppercase;
+	padding: 15px 40px;
+	letter-spacing: 1px;
+	background: #fff;
+	font-weight: 700;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-ms-border-radius: 25px;
+	border-radius: 25px;
+
+}
+
+
+
+.menu-wrapper {
+	position: relative;
+	background-color: #fff;
+	padding: 50px 50px 20px;
+	border-radius: 2px;
+	border: 1px solid #d3a971;
+	margin-bottom: 30px;
+	margin-top: 60px;
+}
+
+.menu-wrapper:before {
+	content: "";
+	position: absolute;
+	top: -4px;
+	right: 2px;
+	bottom: 0;
+	left: 2px;
+	height: calc(100% + 8px);
+	display: block;
+	border-radius: 2px;
+	border: 1px solid #d3a971;
+}
+
+.fruitNaslov {
+	font-size: 20px;
+	margin-bottom: 7px;
+	font-weight: 600;
+}
+
+.menu-item {
+	padding-bottom: 11px;
+	border-bottom: 1px dashed #dbdbdb;
+	margin-bottom: 20px;
+	position: relative;
+
+}
+
+
+.fruitSastojci {
+	font-size: 16px;
+	margin-bottom: 0px;
+}
+
+
+.preliv {
+	font-size: 13px;
+	margin-bottom: 0px;
+	color: orange;
+}
+
+.menu-itemPrice {
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: block;
+	min-width: 50px;
+	text-align: right;
+
+
+}
+
+.format1 {
+	text-align: center;
+	color: orange;
+	margin-top: 30px;
+	font-size: 15px;
+	width: 60%;
+	margin: auto;
+}
+
+.title-box h1 svg {
+	position: absolute;
+	z-index: 3;
+	width: 100%;
+	fill: #ff9900;
+	top: -10px;
+	left: 0;
+}
+
+svg {
+	overflow: hidden;
+}
+
+
+.title-box h1 {
+	display: inline-block;
+	position: relative;
+	margin-left: -20px;
+	margin-bottom: 10px;
+	color: #fff;
+	font-size: 40px;
+	font-family: "Gochi Hand", cursive;
+	font-weight: 400;
+	line-height: 40px;
+	margin: 0 0 20px;
+	letter-spacing: 2.5px;
+	text-transform: uppercase;
+}
+
+.title-box h1 span {
+	display: inline-block;
+	z-index: 4;
+	padding: 10px 60px;
+	position: relative;
+}
+
+.title-box {
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#sale .title-box h1 span {
+	padding: 0px 60px;
+}
+
+#svgSection p {
+	color: black;
+	font-size: 17px;
+	;
+	font-family: "PT Serif", serif;
+	font-weight: 400;
+	line-height: 28px;
+	margin: 0 0 10px;
+}
+
+
+#svgSection .likovi img {
+	float: left;
+	display: block;
+	width: 70px;
+	height: 70px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.postcontent {
+	float: right;
+
+}
+
+
+
+.postcontent h1 {
+	font-size: 25px;
+}
+
+
+.postcontent p {
+	font-size: 15px;
+	width: 90%;
+	margin: auto;
+}
+
+
+.likovi {
+	margin-left: 20px;
+
+}
+
+.menu-item h2 {
+	text-align: center;
+}
+
+.toptop {
+	margin-top: 200px;
+}

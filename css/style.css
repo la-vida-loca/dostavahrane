@@ -205,7 +205,12 @@ ul>li.nav-item.active {
 
 .specijalitetititle {
 	color: #fff;
-	z-index: 55;
+	z-index: 5;
+}
+
+.specijalitetikuce {
+	color: #fff;
+	text-align: center;
 }
 
 .maindiv {
